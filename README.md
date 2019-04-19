@@ -1,2 +1,0 @@
-# VueTutoVideosGraphicArt_ToDoList_Ch11
-Created with CodeSandbox
